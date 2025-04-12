@@ -18,7 +18,6 @@ If you could write a script to make your life easier, what would it do?
 Check out my work here:  
 🔗 [dannny-pf.vercel.app](https://dannny-pf.netlify.app)
 
----
 
 ## 📫 Reach Me
 
@@ -28,9 +27,9 @@ Feel free to connect, collaborate, or just say hi!
 
 ---
 
-## OR Rich Me
+## Or Rich Me 💰
 
-Here is my wallet adress 
+Here is my wallet adress [Rich Him](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 > “The code works, that's all you need to know”  
