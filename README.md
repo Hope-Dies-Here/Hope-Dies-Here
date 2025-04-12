@@ -2,8 +2,6 @@
 
 If you could write a script to make your life easier, what would it do?
 
----
-
 ## 🛠️ Technologies I Work With
 
 - React / Next.js  
@@ -27,9 +25,13 @@ Check out my work here:
 Feel free to connect, collaborate, or just say hi!
 
 - 📧 Email: placeholder@example.com
-- 💼 LinkedIn: [Placeholder](https://linkedin.com/)
 
 ---
 
+## OR Rich Me
+
+Here is my wallet adress 
+
+---
 > “The code works, that's all you need to know”  
 > — John Doe
