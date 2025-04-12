@@ -6,7 +6,7 @@ I'm a developer focused on building clean, modern web experiences. Whether it's 
 
 ## Portfolio  
 Check out my work here:  
-🔗 [dannny-pf.vercel.app](https://dannny-pf.vercel.app)
+🔗 [dannny-pf.vercel.app](https://dannny-pf.netlify.app)
 
 ---
 
@@ -25,9 +25,8 @@ Check out my work here:
 
 Feel free to connect, collaborate, or just say hi!
 
-- 📧 Email: `your.email@example.com`
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- 📧 Email: `placeholder@example.com`
+- 💼 LinkedIn: [Placeholder](https://linkedin.com/)
 
 ---
 
