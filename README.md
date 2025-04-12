@@ -8,7 +8,7 @@ Check out my work here:
 
 ## 🛠️ Technologies I Work With
 
-<div style="column-count: 2; column-gap: 20px;">
+<div style=" display: grid; grid-template-columns: 2; gap: 20px;">
   - React / Next.js  
   - Node.js / Express  
   - Tailwind CSS / Material UI  
