@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danny
+# 👋🏿 Hi, I'm Danny
 
 If you could write a script to make your life easier, what would it do?
 
