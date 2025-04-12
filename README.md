@@ -15,7 +15,8 @@ Check out my work here:
 - React / Next.js  
 - Node.js / Express  
 - Tailwind CSS / Material UI  
-- MongoDB / SQL  
+- MongoDB / SQL
+- HTMX 
 - Git & GitHub  
 - Neovim 💜
 
