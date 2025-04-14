@@ -29,7 +29,7 @@ Feel free to connect, collaborate, or just say hi!
 
 ## Or Rich Me 💰
 
-Here is my wallet adress [Rich Him](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Here is my [Wallet Address](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 > “The code works, that's all you need to know”  
