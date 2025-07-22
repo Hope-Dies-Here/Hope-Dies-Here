@@ -16,7 +16,7 @@ If you could write a script to make your life easier, what would it do?
 
 ## Portfolio  
 Check out my work here:  
-🔗 [My Portfolio](https://dannny-pf.netlify.app)
+🔗 [My Portfolio](https://danny-ollo.netlify.app/)
 
 
 ## 📫 Reach Me
